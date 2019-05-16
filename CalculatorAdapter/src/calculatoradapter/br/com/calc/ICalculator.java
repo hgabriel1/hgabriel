@@ -7,7 +7,7 @@ package calculatoradapter.br.com.calc;
 
 /**
  *
- * @author 0422
+ * hugo
  */
 
 

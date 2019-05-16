@@ -7,13 +7,14 @@ package calculatoradapter.br.com.calc;
 
 /**
  *
- * @author 0422
+ * hugo
  */
 
 
 public interface IConvertResult {
 
 	public String valueToBinario(Integer value);
+      
 	
 	
 }

@@ -7,7 +7,7 @@ package calculatoradapter.br.com.calc;
 
 /**
  *
- * @author 0422
+ * hugo
  */
 
 
@@ -17,5 +17,6 @@ public class ConvertResultImpl implements IConvertResult {
 	public String valueToBinario(Integer value) {
 		return Integer.toBinaryString(value);
        	}
+        
 
 }
