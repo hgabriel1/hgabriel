@@ -1,3 +1,4 @@
+  
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -5,16 +6,14 @@
  */
 package calculatoradapter.br.com.calc;
 
-/**
- *
- * hugo
- */
 
 
-public interface IConvertResult {
+public class CalculatorImpl implements ICalculator{
 
-	public String valueToBinario(Integer value);
-      
+	public double sum(double a, double b) {
+		return a+b;
+	}
+
 	
 	
 }
